@@ -45,6 +45,16 @@ I'm a developer who loves building innovative projects and exploring cutting-edg
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+  <a href="https://github.com/terminator1626">
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=terminator1626&theme=onedark&row=1&column=4" />
+  </a>
+</div>
+
+---
+
 ## 🔥 Featured Projects
 
 ### 💰 Investment Platforms
