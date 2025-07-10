@@ -18,18 +18,18 @@
 ```typescript
 const Filip = {
   roles: [
-    "Owner",
-    "Developer"
+    "👑 Owner",
+    "👨‍💻 Developer"
   ],
-  company: "Earning Crew",
+  company: "💰 Earning Crew",
   location: "🌍 Remote",
   focus: [
-    "Web Development",
-    "Discord Bots Developing",
-    "Telegram Bots Developing",
-    "Investment Platform",
-    "Automation Scripts",
-    "Bug Hunting"
+    "💻 Web Development",
+    "🤖 Discord Bots Developing",
+    "🤖 Telegram Bots Developing",
+    "💸 Investment Platform",
+    "⚙ Automation Scripts",
+    "👾 Bug Hunting"
   ],
   funFact: "I turn coffee into code and ideas into reality"
 };
