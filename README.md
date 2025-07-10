@@ -20,7 +20,7 @@ const Filip = {
   roles: ["Owner", "Developer"],
   company: "Earning Crew",
   location: "🌍 Remote",
-  focus: ["Web Development", "Investment Platforms", "Automation", "Bug hounting"],
+  focus: ["Web Development", "Discord Bots Developing", "Telegram Bots Developing", "Investment Platform", "Automation Scripts", "Bug Hunting"],
   funFact: "I turn coffee into code and ideas into reality"
 };
 ```
