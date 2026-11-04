@@ -92,12 +92,8 @@ const Filip = {
 
 <div align="center">
 
-### 💰 **ECDash Investment Platform**
-[![ECDash](https://img.shields.io/badge/🚀_ECDash_Invest-FF7139?style=for-the-badge&logo=trending-up&logoColor=white)](https://ecdash.eu)
-
-*Advanced investment platform with FaucetPay integration offering up to 8% monthly returns*
-
-**Tech Stack:** `Node.js` `Express` `MySQL` `JavaScript` `Bootstrap`
+*** ⚙️ **Automatization scripts**
+[![ScriptsX.eu](https://img.shields.io/badge/ScriptsX-F7DF1E?style=for-the-badge&logo=dogecoin&logoColor=black)](https://scriptsx.eu)
 
 ---
 
