@@ -93,7 +93,7 @@ const Filip = {
 <div align="center">
 
 *** ⚙️ **Automatization scripts**
-[![ScriptsX.eu](https://img.shields.io/badge/ScriptsX-F7DF1E?style=for-the-badge&logo=dogecoin&logoColor=black)](https://scriptsx.eu)
+[![ScriptsX.eu](https://img.shields.io/badge/ScriptsX-F7DF1E?style=for-the-badge&logo=scripts&logoColor=black)](https://scriptsx.eu)
 
 ---
 
