@@ -93,30 +93,10 @@ const Filip = {
 <div align="center">
 
 ### ⚙️ **Automatization scripts**
-[![ScriptsX.eu](https://img.shields.io/badge/ScriptsX-F7DF1E?style=for-the-badge&logo=scripts&logoColor=black)](https://scriptsx.eu)
+[![ScriptsX.eu](https://img.shields.io/badge/ScriptsX-F7DF1E?style=for-the-badge&logo=gnubash&logoColor=black)](https://scriptsx.eu)
 
 ---
 
-### 🐕 **Crypto Faucet Ecosystem**
-[![Doge Faucet](https://img.shields.io/badge/Doge_Faucet-F7DF1E?style=for-the-badge&logo=dogecoin&logoColor=black)](https://dogefaucet.fun)
-
-*Instant DOGE rewards system with no limits and zero waiting time*
-
-**Features:** `Instant Claims` `FaucetPay Integration` `Anti-Bot Protection`
-
----
-
-### 📱 **Telegram Faucet Bot**
-[![TG Doge Faucet](https://img.shields.io/badge/TG_Doge_Faucet-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
-
-*Telegram-based DOGE faucet with automated hourly claims*
-*Instant DOGE rewards payouts to FaucetPay*
-
-**Tech Stack:** `Node.js` `Telegram Bot` `SQLite`
-
-</div>
-
----
 
 ## 📈 Current Focus
 
